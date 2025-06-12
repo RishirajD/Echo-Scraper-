@@ -1,0 +1,5102 @@
+[
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  },
+  {
+    "site": "amazon",
+    "intent": "Extract product names",
+    "html": "<div class=\"product-title\"><span>Apple iPhone 14 Pro</span></div>",
+    "label": "Products",
+    "output": [
+      "Apple iPhone 14 Pro",
+      "Samsung Galaxy S23"
+    ]
+  },
+  {
+    "site": "flipkart",
+    "intent": "Extract product titles",
+    "html": "<span class=\"_35KyD6\">Redmi Note 13</span>",
+    "label": "Products",
+    "output": [
+      "Redmi Note 13",
+      "Realme Narzo 60"
+    ]
+  },
+  {
+    "site": "swiggy",
+    "intent": "List all available cuisines",
+    "html": "<ul class=\"cuisines\"><li>Italian</li><li>Chinese</li></ul>",
+    "label": "Cuisines",
+    "output": [
+      "Italian",
+      "Chinese",
+      "Mexican"
+    ]
+  },
+  {
+    "site": "zomato",
+    "intent": "List restaurant names",
+    "html": "<div class=\"sc-1mo3ldo-0 bGuZGn\"><h4>Burger King</h4></div>",
+    "label": "Restaurants",
+    "output": [
+      "Burger King",
+      "Domino's Pizza"
+    ]
+  },
+  {
+    "site": "ebay",
+    "intent": "Extract product names",
+    "html": "<h3 class=\"s-item__title\">Wireless Mouse</h3>",
+    "label": "Products",
+    "output": [
+      "Wireless Mouse",
+      "Gaming Keyboard"
+    ]
+  },
+  {
+    "site": "facebook",
+    "intent": "Extract user names",
+    "html": "<span class=\"user-name\">John Doe</span>",
+    "label": "Users",
+    "output": [
+      "John Doe",
+      "Jane Smith"
+    ]
+  },
+  {
+    "site": "instagram",
+    "intent": "Extract hashtags",
+    "html": "<p>#travel #food #fitness </p>",
+    "label": "Hashtags",
+    "output": [
+      "travel",
+      "food",
+      "fitness"
+    ]
+  },
+  {
+    "site": "d mart",
+    "intent": "Extract grocery items",
+    "html": "<li class=\"grocery-item\">Basmati Rice</li>",
+    "label": "Groceries",
+    "output": [
+      "Basmati Rice",
+      "Toor Dal"
+    ]
+  },
+  {
+    "site": "prepinsta",
+    "intent": "List company questions",
+    "html": "<div class=\"question\">LTI Mindtree Interview</div>",
+    "label": "Company Questions",
+    "output": [
+      "LTI Mindtree Interview",
+      "Capgemini Questions"
+    ]
+  },
+  {
+    "site": "geeksforgeeks",
+    "intent": "List course titles",
+    "html": "<div class=\"course-title\">DSA Bootcamp</div>",
+    "label": "Courses",
+    "output": [
+      "DSA Bootcamp",
+      "Java Backend"
+    ]
+  }
+]

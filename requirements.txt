@@ -1,0 +1,10 @@
+streamlit 
+# langchain 
+# langchain_ollama
+llama3 -- large model 
+selenium
+beautifulsoup4
+lxml 
+html5lib
+webdriver 
+python-dotenv
